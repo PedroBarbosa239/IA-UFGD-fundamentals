@@ -73,7 +73,7 @@ IA ALGORITIMOS/
 * Python 3
 * Estruturas de dados básicas
 * Matemática aplicada à IA
-* 
+  
 ## 👨‍🎓 Autor
 Projeto desenvolvido para estudo de Inteligência Artificial, com foco em compreensão conceitual e prática.
 
